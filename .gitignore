@@ -67,11 +67,10 @@ sysinfo.txt
 
 # Builds
 !*.exe
+!*.apk
 !*.dll
-*.apk
 *.unitypackage
 *.unitypackage
-*.app
 
 # Crashlytics generated file
 crashlytics-build.properties
